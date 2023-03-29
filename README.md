@@ -1,5 +1,5 @@
 # 💫 About Me:
-📹currently working on Front-end Projects<br>📱always looking to collaborate on open source projects<br>🔨looking for help with dealing with anxiety <br>🌐currently learning web development <br>💬ask me anything<br>💡fun fact: i'm a husbamd/father 
+📹currently working on Front-end Projects<br>📱always looking to collaborate on open source projects<br>🔨looking for help with dealing with anxiety <br>🌐currently learning web development <br>💬ask me anything<br>💡fun fact: i'm a husband/father 
 
 
 ## 🌐 Socials:
